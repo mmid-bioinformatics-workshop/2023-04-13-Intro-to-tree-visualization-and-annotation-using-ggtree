@@ -21,9 +21,15 @@ git clone https://github.com/mmid-bioinformatics-workshop/2023-04-13-Intro-to-tr
 
 ---
 
-## Required conda packages
+## Required R packages
+## Have RStudio installed to follow along the workshop!
 
-- iqtree
+- install.packages("readxl")
+- install.packages("BiocManager")
+- install.packages("treeio")
+- install.packages("tidyverse")
+- install.packages("phytools")
+
 
 ---
 
