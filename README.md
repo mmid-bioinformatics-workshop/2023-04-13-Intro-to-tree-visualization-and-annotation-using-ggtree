@@ -5,7 +5,7 @@ Date: April 13, 2023
 
 Website: https://mmid-bioinformatics-workshop.github.io/
 
-YouTube: 
+YouTube: https://youtu.be/ubqX_ry37nc
 
 ---
 
